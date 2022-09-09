@@ -15,4 +15,4 @@ Landin page simples desenvolvido por mim para praticar o que venho aprendendo no
 
 <br>
 
-[Clique Aqui]() para acessar o site.
+[Clique Aqui](https://electrofans.netlify.app/) para acessar o site.
